@@ -1,0 +1,45 @@
+body
+{
+	background-color: lavender;
+	color: blueviolet;
+	border-color: blueviolet;
+	border-style: double;
+	font-size: 25;
+	padding: 25;
+	text-align: center;
+}
+
+div
+{
+	border-style: solid;
+	border-width: thin;
+	border-color: blueviolet;
+	display: inline-block;
+	padding-left: 20;
+	padding-right: 20;
+	font-size: 20;
+}
+
+hr
+{
+	border-style: solid;
+	border-bottom: none;
+	border-color: blueviolet;
+}
+.small
+{
+	width: 200;
+}
+
+#title
+{
+	font-size: 30;
+}
+.info
+{
+	font-size: 15;
+}
+.normal
+{
+	font-size: 25;
+}
